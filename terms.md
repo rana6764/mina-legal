@@ -1,3 +1,9 @@
+---
+layout: default
+title: 利用規約 | 水無（Minase）
+permalink: /terms/
+---
+
 # 水無（Minase）利用規約
 
 **最終更新日：2026年9月10日**

@@ -1,3 +1,9 @@
+---
+layout: default
+title: プライバシーポリシー | 水無（Minase）
+permalink: /privacy/
+---
+
 # 水無（Minase）プライバシーポリシー
 
 **最終更新日：2026年9月10日**
