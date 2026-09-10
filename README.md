@@ -1,6 +1,6 @@
 # mina-legal
 
-Legal documents for Minase, the LineLore Discord bot.
+Legal documents for Mina, the LineLore Discord bot.
 
 ## Public pages
 

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 水無（Minase）Legal
+title: 水無（Mina）Legal
 permalink: /
 ---
 
-# 水無（Minase）Legal
+# 水無（Mina）Legal
 
-LineLoreのDiscord Bot「水無 / Minase」に関する法的文書を公開しています。
+LineLoreのDiscord Bot「水無 / Mina」に関する法的文書を公開しています。
 
 - [利用規約]({{ site.baseurl }}/terms/)
 - [プライバシーポリシー]({{ site.baseurl }}/privacy/)
